@@ -19,7 +19,7 @@
 💾 npm install
 
 ## Usage
-💻 node run seed
+💻 node run seed  
 💻 node run start
 
 ## License
